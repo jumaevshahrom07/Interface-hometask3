@@ -20,4 +20,8 @@ public class Rectangle : Shape
     {
         return 2 * (_side1 + _side2);
     }
+    public override string ToString()
+    {
+        return $"This is Rectangle";
+    }
 }

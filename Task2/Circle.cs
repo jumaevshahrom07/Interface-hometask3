@@ -20,4 +20,9 @@ public class Circle : Shape
     {
         return 2 * _PI * _radius;
     }
+
+    public override string ToString()
+    {
+        return $"This is Cicrle";
+    }
 }

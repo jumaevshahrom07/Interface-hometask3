@@ -12,3 +12,4 @@ C:\Users\shahr\Desktop\Interface-HomaTask3\Task2\obj\Debug\net10.0\refint\Task2.
 C:\Users\shahr\Desktop\Interface-HomaTask3\Task2\obj\Debug\net10.0\Task2.pdb
 C:\Users\shahr\Desktop\Interface-HomaTask3\Task2\obj\Debug\net10.0\Task2.genruntimeconfig.cache
 C:\Users\shahr\Desktop\Interface-HomaTask3\Task2\obj\Debug\net10.0\ref\Task2.dll
+C:\Users\shahr\Desktop\Interface-HomaTask3\Task2\obj\Debug\net10.0\Task2.sourcelink.json
