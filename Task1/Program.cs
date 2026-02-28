@@ -1,0 +1,10 @@
+﻿using ClassDemo;
+Person person = new Person();
+person.Greet();
+Student student = new Student();
+student.Greet();
+student.ShowAge();
+student.Study();
+Teacher teacher = new Teacher();
+teacher.Greet();
+teacher.Explain();
