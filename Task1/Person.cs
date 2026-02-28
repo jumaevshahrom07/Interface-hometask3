@@ -1,19 +1,19 @@
-// namespace ClassDemo;
+namespace ClassDemo;
 
-// public class Person
-// {
-//     protected int _age {get; set;}
+public class Person
+{
+    protected int _age {get; set;}
 
-//     public void Greet()
-//     {
-//         Console.WriteLine("Hello!");
-//     }
+    public void Greet()
+    {
+        Console.WriteLine("Hello!");
+    }
 
-//     public void SetAge(int age)
-//     {
-//         _age = age;
-//     }
-// }
+    public void SetAge(int age)
+    {
+        _age = age;
+    }
+}
 
 
 
